@@ -1,2 +1,2 @@
 # MachineLearning
-Programas e estudos em Machine Learning
+Programas e estudos em Aprendizado de Máquina
